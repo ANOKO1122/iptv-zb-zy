@@ -15,16 +15,19 @@ https://iptv-zb-zy.pages.dev/output/ipv4/result.m3u      ← 推荐（Cloudflare
 https://raw.githubusercontent.com/ANOKO1122/iptv-zb-zy/master/output/ipv4/result.m3u
 ```
 
-> 使用 `#genre#` 分类，播放器会按「央视 / 香港 / 凤凰 / 澳门」分组展示。
+> 使用 `#genre#` 分类，播放器会按「央视 / 凤凰 / 香港 / 澳门 / 台湾」分组展示。
 
 ---
 
-## 📡 包含的频道（共 37 个）
+## 📡 包含的频道（共 91 个）
 
-- 🇨🇳 **央视 18 台**：CCTV-1 ~ CCTV-17、CCTV-5+
-- 🇭🇰 **香港 9 台**：翡翠台、翡翠4K、明珠台、ViuTV、HOY TV、港台電視 31、港台電視 32、TVB无线新闻、星空卫视
-- 🐦 **凤凰 3 台**：凤凰中文、凤凰资讯、凤凰香港
-- 🎰 **澳门 7 台**：澳视澳门、澳门资讯、澳门综艺、澳视体育、澳视葡文、澳门卫星、澳門MACAU
+- 🇨🇳 **央视**：CCTV-1 ~ CCTV-17、CCTV-5+、CGTN（doubletree6 源）
+- 🐦 **凤凰系列**：凤凰中文 / 资讯 / 香港 + 高清 / 卫视台变体
+- 🇭🇰 **香港**：翡翠台、翡翠4K、翡翠台北美版、明珠台、TVB翡翠台、华丽翡翠台、TVB明珠台、港台電視 31/32、TVB无线新闻 / 星河 / Plus / 千禧经典、无线新闻、ViuTV / VIUTV1 / J2 / HOY TV
+- 🎰 **澳门**（第三方源）：澳门卫视、澳视澳门、澳视卫星
+- 📡 **台湾 / 其他**：台视新闻、TVBS新闻台、三立戏剧、大立电视台、星空卫视、美亚电影、纬来精采、人间卫视、韩国电影、广州综合、南国都市、广东珠江/体育、海峡卫视 等
+
+> 来源：核心香港台（翡翠/明珠/凤凰/TVB/ViuTV）来自 suxiang 的**「港澳代理」分组**（jdshipin 代理线路，直连流畅）；港台電視/台湾台/影视台等来自「港澳台频道」分组；央视来自 doubletree6。
 
 ---
 
@@ -34,12 +37,12 @@ https://raw.githubusercontent.com/ANOKO1122/iptv-zb-zy/master/output/ipv4/result
 2. **模板匹配**：按 `config/user_demo.txt` 模板匹配频道，模板里没有的频道不会进入测速与结果。
 3. **测速过滤**：对每个频道的源进行测速，过滤条件为：
    - 分辨率 ≥ `1280x720`
-   - 速率 ≥ `0.75 M/s`
+   - 速率 ≥ `0.4 M/s`（港澳台海外小分片源测速虚低，故门槛放低）
    - 每个频道最多保留 **2 个**源
-4. **白名单免测速**：翡翠台 / 明珠台 / 凤凰 / 澳门等源，因本机直连测速不准（盒子却能流畅播放），加入**白名单直接保留**，不被误筛。
+4. **白名单例外**：仅 `jdshipin`（翡翠/明珠/凤凰/TVB 等代理线路）加白名单免测速——用户实测 2~4 M/s 流畅，但 iptv-api 并发分片测速测不准（平均 0.00），只能白名单保住；其余港澳台源全部实测速。
 5. **生成并推送**：生成 `output/ipv4/result.m3u`（及 `result.txt`），自动提交推送到本仓库。
 
-> 单次更新约 7 分钟，测速量约 250 条。
+> 单次更新约 9~12 分钟，测速量约 460 条。
 
 ---
 
@@ -49,8 +52,7 @@ https://raw.githubusercontent.com/ANOKO1122/iptv-zb-zy/master/output/ipv4/result
 |------|----------|------|
 | **Guovin/iptv-api** | 项目本体：自动采集 / 测速 / 生成框架 | https://github.com/Guovin/iptv-api |
 | **doubletree6/tvbox-iptv-subscription** | 大陆央视 / 卫视 / 凤凰（tvbus CDN，国内直连快） | https://github.com/doubletree6/tvbox-iptv-subscription |
-| **sammy0101/hk-iptv-auto** | 香港频道（翡翠 / 明珠 / 港台電視 / TVB 等，每日更新） | https://github.com/sammy0101/hk-iptv-auto |
-| **澳门广播电视 TDM** | 澳门官方台（澳视澳门 / 澳门资讯等） | https://www.tdm.com.mo |
+| **suxuang/myIPTV** | 港澳台频道（「港澳代理」+「港澳台频道」两个分组：翡翠/明珠/凤凰/TVB/港台/台湾等） | https://github.com/suxuang/myIPTV |
 
 再次感谢以上开源项目与频道源的维护者们 💙
 
