@@ -1,39 +1,39 @@
 🕘️更新时间,#genre#
-2026-08-11 11:21:38,http://127.0.0.1:1/update_time.txt
+2026-08-11 21:57:27,http://127.0.0.1:1/update_time.txt
 
 📺央视频道,#genre#
 CCTV-1,http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+CCTV-1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://101.66.199.253:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-2,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://1.24.39.180:9003/hls/3/index.m3u8
 CCTV-3,http://221.7.175.154:8445/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://1.24.39.180:9003/hls/4/index.m3u8
 CCTV-5,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5+,http://111.8.224.6:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://124.228.160.210:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://1.24.39.180:9003/hls/6/index.m3u8
 CCTV-6,http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+CCTV-7,http://1.24.39.180:9003/hls/7/index.m3u8
 CCTV-7,http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
 CCTV-8,http://1.24.39.180:9003/hls/8/index.m3u8
-CCTV-8,http://173.208.212.130:8181/720p/cctv8.m3u8
+CCTV-8,http://112.123.243.37:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://221.7.175.154:8445/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-10,http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-11,http://111.8.224.6:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://173.208.212.130:8181/720p/cctv9.m3u8
+CCTV-10,http://1.24.39.180:9003/hls/10/index.m3u8
+CCTV-10,http://101.66.194.201:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://1.24.39.180:9003/hls/11/index.m3u8
+CCTV-11,http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-12,http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+CCTV-12,http://1.24.39.180:9003/hls/12/index.m3u8
 CCTV-13,http://1.24.39.180:9003/hls/13/index.m3u8
-CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-14,http://1.24.39.180:9003/hls/14/index.m3u8
-CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15,http://61.178.227.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://1.24.39.180:9003/hls/15/index.m3u8
-CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-16,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://1.24.39.180:9003/hls/60/index.m3u8
 CCTV-17,http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -42,7 +42,7 @@ CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
 
 🐦凤凰频道,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://218.206.193.218:8888/hls/66/index.m3u8
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://r.jdshipin.com/yDoTN
