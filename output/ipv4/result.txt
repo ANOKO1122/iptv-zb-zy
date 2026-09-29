@@ -1,42 +1,42 @@
 🕘️更新时间,#genre#
-2026-09-29 11:24:10,http://127.0.0.1:1/update_time.txt
+2026-09-29 21:55:57,http://127.0.0.1:1/update_time.txt
 
 📺央视频道,#genre#
 CCTV-1,http://59.39.89.130:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+CCTV-2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://120.198.95.220:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV-3,http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://59.39.89.130:60901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4,http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
+CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://59.39.89.130:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://59.39.89.130:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
+CCTV-6,http://59.39.89.130:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
-CCTV-6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-7,http://120.198.95.220:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-7,http://59.39.89.130:60901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://59.39.89.130:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://118.122.144.115:8888/newlive/live/hls/9/live.m3u8
+CCTV-9,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://59.39.89.130:60901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://120.198.95.220:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-10,http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
 CCTV-10,http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
 CCTV-11,http://118.122.144.115:8888/newlive/live/hls/12/live.m3u8
 CCTV-11,http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
-CCTV-12,http://120.198.95.220:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV-13,http://112.123.243.37:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://59.39.89.130:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
+CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-CCTV-15,http://120.198.95.220:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+CCTV-15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-15,http://124.228.160.112:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://183.129.255.66:8480/hls/17/index.m3u8
 CCTV-16,http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
-CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV-17,http://59.39.89.130:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 CGTN,http://t.061899.xyz/tl/tl.php?id=cgtn
 
