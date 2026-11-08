@@ -1,49 +1,48 @@
 🕘️更新时间,#genre#
-2026-11-08 11:21:26,http://127.0.0.1:1/update_time.txt
+2026-11-08 21:51:24,http://127.0.0.1:1/update_time.txt
 
 📺央视频道,#genre#
-CCTV-1,http://45.192.97.170:8880/play/389.m3u8
 CCTV-1,http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://45.192.97.170:8880/play/389.m3u8
 CCTV-2,http://45.192.97.170:8880/play/390.m3u8
-CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8
+CCTV-2,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV-3,http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://222.223.41.27:8888/hls/3/index.m3u8
+CCTV-3,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://113.90.154.189:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://45.192.97.170:8880/play/392.m3u8
 CCTV-5,http://45.192.97.170:8880/play/393.m3u8
 CCTV-5,http://113.90.154.189:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv
 CCTV-5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
-CCTV-6,http://113.90.154.189:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv
 CCTV-6,http://45.192.97.170:8880/play/395.m3u8
+CCTV-6,http://113.90.154.189:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://45.192.97.170:8880/play/396.m3u8
 CCTV-7,http://113.90.154.189:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://45.192.97.170:8880/play/397.m3u8
 CCTV-8,http://183.223.157.33:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://113.90.154.189:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://45.192.97.170:8880/play/398.m3u8
-CCTV-9,http://222.223.41.27:8888/hls/9/index.m3u8
-CCTV-10,http://113.90.154.189:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://45.192.97.170:8880/play/399.m3u8
+CCTV-10,http://113.90.154.189:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://113.90.154.189:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://222.223.41.27:8888/hls/11/index.m3u8
 CCTV-12,http://113.90.154.189:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://59.39.89.130:60901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://45.192.97.170:8880/play/402.m3u8
 CCTV-13,http://222.223.41.27:8888/hls/13/index.m3u8
-CCTV-14,http://45.192.97.170:8880/play/403.m3u8
 CCTV-14,http://113.90.154.189:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://113.90.154.189:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://45.192.97.170:8880/play/403.m3u8
 CCTV-15,http://45.192.97.170:8880/play/404.m3u8
+CCTV-15,http://113.90.154.189:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16,http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
 CCTV-16,http://183.129.255.66:8480/hls/17/index.m3u8
-CCTV-16,http://1.24.39.180:9003/hls/60/index.m3u8
-CCTV-17,http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://45.192.97.170:8880/play/405.m3u8
+CCTV-17,http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://t.061899.xyz/tl/tl.php?id=cgtn
-CGTN Documentary,http://t.061899.xyz/tl/tl.php?id=cgtnjl
 
 🐦凤凰频道,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰中文,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -141,6 +140,7 @@ ViuTV,http://r.jdshipin.com/TcKr2
 南国都市,http://r.jdshipin.com/nWaZO
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 海峡卫视,http://r.jdshipin.com/WtYt3
+海峡卫视,http://t.061899.xyz/tl/tl.php?id=hxws
 咪咕视频4K,http://r.jdshipin.com/ln4xk
 咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
 J2,http://r.jdshipin.com/Nr5jq
